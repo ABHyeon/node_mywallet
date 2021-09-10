@@ -1,6 +1,6 @@
 [
 	{
-		"constant": true,
+		"constant": true, 
 		"inputs": [],
 		"name": "name",
 		"outputs": [
